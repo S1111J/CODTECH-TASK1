@@ -21,8 +21,11 @@ Arithmetic Functions:
 The calculator defines four functions:
 
 Addition (add): Takes two numbers and returns their sum.
+
 Subtraction (subtract): Takes two numbers and returns the difference.
+
 Multiplication (multiply): Takes two numbers and returns their product.
+
 Division (divide): Takes two numbers and returns the quotient. It includes a check to prevent division by zero.
 
 User Interaction:
